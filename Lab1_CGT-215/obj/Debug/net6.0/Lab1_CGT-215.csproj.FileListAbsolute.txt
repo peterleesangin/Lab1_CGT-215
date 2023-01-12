@@ -1,0 +1,15 @@
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\bin\Debug\net6.0\Lab1_CGT-215.exe
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\bin\Debug\net6.0\Lab1_CGT-215.deps.json
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\bin\Debug\net6.0\Lab1_CGT-215.runtimeconfig.json
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\bin\Debug\net6.0\Lab1_CGT-215.dll
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\bin\Debug\net6.0\Lab1_CGT-215.pdb
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\Lab1_CGT-215.csproj.AssemblyReference.cache
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\Lab1_CGT-215.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\Lab1_CGT-215.AssemblyInfoInputs.cache
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\Lab1_CGT-215.AssemblyInfo.cs
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\Lab1_CGT-215.csproj.CoreCompileInputs.cache
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\Lab1_CGT-215.dll
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\refint\Lab1_CGT-215.dll
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\Lab1_CGT-215.pdb
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\Lab1_CGT-215.genruntimeconfig.cache
+C:\Users\lee3951\source\repos\Lab1_CGT-215\Lab1_CGT-215\obj\Debug\net6.0\ref\Lab1_CGT-215.dll
